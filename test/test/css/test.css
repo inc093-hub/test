@@ -1,0 +1,13 @@
+.box-parent {
+    padding-top: 50px;
+}
+.box {
+display: inline;
+width: 100px;
+height: 100px;
+background-color: burlywood;
+padding: 25px;
+ border: 5px solid black;
+ /* border-radius: 5px; */
+ margin: 5px ; 
+}
